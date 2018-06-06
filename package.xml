@@ -1,0 +1,13 @@
+<package>
+  <name>sfml</name>
+  <version>2.5.0</version>
+  <maintainer email="xxdsox@gmail.com">Yusu Pan</maintainer>
+  <author email="laurent@sfml-dev.com">Laurent Gomila</author>
+  <description>
+    SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
+  </description>
+  <license>custom</license>
+  <url>http://github.com/SFML/SFML</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
